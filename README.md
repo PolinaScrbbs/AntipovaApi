@@ -38,13 +38,9 @@ _______
     ```json
     {
         "token": "user_token",
-        "email": "email",
-        "password": "password",
-        "full_name": "full_name",
-        "phone_number": "+79513171214"
     }
     ```
-    > Номер телефона не обязателен для регистрации
+    > Дальше все поля для создания объявления
 * #### Запросы для отдельных объявлений:
     * #### GET(http://127.0.0.1:8000/AntipovaApi/advertisement/?token=user_token):
         ```json
